@@ -1,5 +1,5 @@
 ; Mine - Holds down left click until F8 is pressed again
-*f8::
+p::
     toggle := !toggle
 	if (toggle) {
 	SendInput {LButton Down}
