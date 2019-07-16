@@ -1,0 +1,2 @@
+# autommine
+automine
